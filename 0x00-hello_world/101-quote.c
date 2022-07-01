@@ -1,9 +1,10 @@
 #include <stdio.h>
 #include <unistd.h>
+
 /**
 * main - Entry point
 *
-* Description; Prints "and that piece of art is useful..." without puts
+* Description: 'and that piece of art is useful" - Dora korparn 2015-10-19'
 *
 * Return: Always 0 (Success)
 */
