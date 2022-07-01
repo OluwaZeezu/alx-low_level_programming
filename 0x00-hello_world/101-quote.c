@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <unistd.h>
 /**
-* main - prints to string
+* main - Entry point
 *
 * Description; Prints "and that piece of art is useful..." without puts
 *
