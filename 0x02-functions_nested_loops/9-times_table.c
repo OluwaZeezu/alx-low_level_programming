@@ -6,7 +6,7 @@
 *
 * Return: no return value
 */
-void times_table(void)
+void times_table(void);
 {
 int number = 0;
 int multiplier = 0;
