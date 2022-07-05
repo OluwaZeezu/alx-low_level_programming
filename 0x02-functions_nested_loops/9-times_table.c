@@ -1,12 +1,12 @@
 #include <stdio.h>
 #include "main.h"
 /**
- * times_table - prints the 9 times table, starting with 0
- *
- *
- * Return: no retuen value
- */
-int main(void)
+* times_table - prints the 9 times table, starting with 0
+*
+*
+* Return: no return value
+*/
+void times_table(void)
 {
 int number = 0;
 int multiplier = 0;
