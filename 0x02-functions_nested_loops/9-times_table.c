@@ -18,7 +18,7 @@ if (number > 0)
 {
 printf(", ");
 }
-printf("%2d", number * multiplier);
+printf("%02d", number * multiplier);
 }
 printf("\n");
 }
