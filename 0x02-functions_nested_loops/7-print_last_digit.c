@@ -9,8 +9,8 @@
 
 int print_last_digit(int n)
 {
-int last_digit = ((n < 0 ? -1 : 1) * n) % 10;
+int last_digit = ((n < 0) * n) % 10;
 
-_putchar('0' + int n);
+_putchar('0' + last_digit);
 return (last_digit);
 }
