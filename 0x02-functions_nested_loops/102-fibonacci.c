@@ -4,10 +4,10 @@
 * main - prints first 50 numbers of the fibonacci sequence
 * Return: 0
 */
-void print_times_table(void)
+int main(void)
 {
 int i, n;
-f1, f2, next;
+long f1, f2, next;
 
 f1 = 1;
 f2 = 2;
