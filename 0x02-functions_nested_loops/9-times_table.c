@@ -17,7 +17,7 @@ for (number = 0; number < 10; number++)
 {
 if (number > 0)
 {
-printf(" ,");
+printf(", ");
 }
 printf("%2d", number * multiplier);
 }
