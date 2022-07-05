@@ -7,7 +7,6 @@
  * Return: no retuen value
  */
 int main(void)
-void times_table(void)
 {
 int number = 0;
 int multiplier = 0;
