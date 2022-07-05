@@ -1,13 +1,13 @@
 #include <stdio.h>
 #include "main.h"
 /**
- * main - prints first 50 numbers of the fibonacci sequence
- * Return: 0
- */
+* main - prints first 50 numbers of the fibonacci sequence
+* Return: 0
+*/
 void times_table(void)
 {
 int i, n;
-long f1, f2, next;
+f1, f2, next;
 
 f1 = 1;
 f2 = 2;
