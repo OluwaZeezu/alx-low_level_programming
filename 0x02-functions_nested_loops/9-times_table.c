@@ -4,7 +4,7 @@
  * times_table - prints the 9 times table, starting with 0
  *
  *
- * Return: no return value
+ * Return: no retuen value
  */
 void times_table(void)
 {
@@ -17,7 +17,7 @@ void times_table(void)
 		{
 			if (number > 0)
 			{
-				printf(", ");
+				printf(",");
 			}
 			printf("%2d", number * multiplier);
 		}
