@@ -19,7 +19,7 @@ if (number > 0)
 {
 printf(", ");
 }
-printf("%d", number * multiplier);
+printf("2%d", number * multiplier);
 }
 printf("\n");
 }
