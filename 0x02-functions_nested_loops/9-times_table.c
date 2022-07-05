@@ -6,6 +6,7 @@
  *
  * Return: no retuen value
  */
+int main(void)
 void times_table(void)
 {
 int number = 0;
@@ -19,7 +20,7 @@ if (number > 0)
 {
 printf(", ");
 }
-printf("2%d", number * multiplier);
+printf("%2d", number * multiplier);
 }
 printf("\n");
 }
